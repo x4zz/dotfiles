@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/libexec/helper-scripts/terminal-wrapper /usr/libexec/gateway-shortcuts/reloadtor
+Name=Reload Tor
+GenericName=Reload Tor
+Comment=Reload Tor
+Categories=System
+Icon=/usr/share/icons/anon-icon-pack/power_restart.ico
+Keywords=system;tor;
+X-XFCE-Source=file:///usr/share/applications/gateway-reloadtor.desktop

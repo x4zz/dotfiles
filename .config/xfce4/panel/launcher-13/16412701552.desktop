@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/libexec/whonix-firewall/firewall50user
+Name=User Firewall Settings
+GenericName=Whonix User Firewall Settings
+Comment=Open /etc/whonix_firewall.d/50_user.conf in editor
+Categories=System
+Icon=/usr/share/icons/anon-icon-pack/nerolinux.ico
+Keywords=system;Whonix;firewall
+X-XFCE-Source=file:///usr/share/applications/whonix-firewall50user.desktop

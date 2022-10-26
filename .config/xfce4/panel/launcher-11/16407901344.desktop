@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/usr/libexec/setup-wizard-dist/setup-wizard-dist
+Name=Setup Wizard Distribution
+GenericName=Setup Wizard Distribution
+Comment=Distribution Setup Wizard
+Categories=System;
+Icon=/usr/share/icons/anon-icon-pack/whonix.png
+X-KDE-StartupNotify=false
+Keywords=system;Kicksecure,Whonix;setup;connection;Tor;Anon;
+X-Desktop-File-Install-Version=0.22
+X-XFCE-Source=file:///usr/share/applications/setup-wizard-dist.desktop

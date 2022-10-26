@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/libexec/helper-scripts/terminal-wrapper /usr/libexec/gateway-shortcuts/nyx
+Name=Nyx - Status Monitor for Tor
+GenericName=Status Monitor for Tor (Nyx)
+Comment=Status Monitor for Tor (Nyx)
+Categories=System
+Icon=/usr/share/icons/anon-icon-pack/arm.ico
+Keywords=system;tor;controller;Arm;Nyx;
+X-XFCE-Source=file:///usr/share/applications/gateway-arm.desktop

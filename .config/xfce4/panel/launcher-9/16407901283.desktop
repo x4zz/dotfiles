@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/usr/libexec/restart-tor-gui/restart-tor-gui
+Name=Restart Tor GUI
+GenericName=Restart Tor GUI
+Comment=Graphical tool for restarting Tor
+Categories=System
+Icon=/usr/share/icons/anon-icon-pack/restart.ico
+Keywords=system;tor;
+X-XFCE-Source=file:///usr/share/applications/restart-tor-gui.desktop

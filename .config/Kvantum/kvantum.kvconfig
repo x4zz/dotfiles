@@ -1,0 +1,6 @@
+[General]
+theme=Default#
+
+[Applications]
+KvAdaptaDark=restart-tor-gui
+KvGnomeDark=systemcheck, restart-tor-gui, tor-control-panel, synaptic, nyx, sdwdate-gui
